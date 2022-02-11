@@ -8,6 +8,7 @@ This is example is to show differents parts of the repository and various comman
 
 ## Pupose
 
+As stated above, the main purpose is to provide simple eamples for Git training demos.
 
 ## Deployment
 
