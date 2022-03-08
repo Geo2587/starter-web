@@ -19,3 +19,5 @@ This is a  simple web project, deployment can be on any web server or even local
 Please forh this repository and then issue Pull Requests fo review.
 
 ### Copyright
+
+2022 Git.training. All rights reserved
