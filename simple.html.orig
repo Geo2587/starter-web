@@ -2,6 +2,13 @@
 
 <!-- 
 	Copyrights 2022 Git.training
+<<<<<<< HEAD
+	adding changes before rebasing conflicts
+	Some silly changes from master branch
+=======
+	adding changes before rebasing conflict
+	maing troubles
+>>>>>>> d42e9d8 (fb adding some touble to simple.html)
 -->
 
 <head>
@@ -18,10 +25,12 @@
 	<main class="container">
 	<!-- Junk fileer content -->
 		<p>
-			Some interesting stuff goes here
-			Just nothin' but trouble
+<<<<<<< HEAD
 			Just stuff for now,
 			Not sure if we should replace this or not
+=======
+			Just nothin' but trouble
+>>>>>>> d42e9d8 (fb adding some touble to simple.html)
 		</p>
 	</main>
 	<footer class="container">
